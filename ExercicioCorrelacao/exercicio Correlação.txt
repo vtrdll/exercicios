@@ -1,0 +1,23 @@
+📘 Exercício:
+Um professor está avaliando se existe relação entre o tempo de estudo (em horas) e as notas finais dos alunos. Ele coletou os seguintes dados de 5 estudantes:
+
+Aluno	Tempo de Estudo (X)	Nota Final (Y)
+A	2	60
+B	4	70
+C	5	75
+D	6	78
+E	8	85
+
+Calcule a média de X e Y
+
+Calcule a covariância entre X e Y
+
+Calcule o desvio padrão de X e Y
+
+Calcule a correlação de Pearson (r) entre X e Y
+
+Interprete o resultado: Existe relação entre tempo de estudo e nota?
+
+
+
+
